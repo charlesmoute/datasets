@@ -6,3 +6,7 @@
   name: unhcr23724_monitoring
   type: default
   description: Datasets monitoring RMS Cameroon 2024
+- path: unhcr23724_config
+  name: unhcr23724_config
+  type: default
+  description: Configuration RMS Cameroon 2024
