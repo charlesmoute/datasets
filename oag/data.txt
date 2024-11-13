@@ -1,0 +1,4 @@
+- path: oag_config
+  name: oag_config
+  type: default
+  description: Configuration RMS Cameroon 2024
