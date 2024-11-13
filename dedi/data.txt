@@ -1,0 +1,4 @@
+- path: unhcr23724_config
+  name: unhcr23724_config
+  type: default
+  description: Configuration RMS Cameroon 2024
