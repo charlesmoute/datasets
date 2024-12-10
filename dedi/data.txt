@@ -10,3 +10,7 @@
   name: pdm_urban_23724_config
   type: default
   description: 'PDM Urban Cameroon 2024 : Parameters for monitoring'
+- path: pdm2024_urban_monitoring
+  name: pdm2024_urban_monitoring
+  type: default
+  description: 'PDM Urban Cameroon 2024 : Dataset for monitoring'
