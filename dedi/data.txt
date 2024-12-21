@@ -14,3 +14,7 @@
   name: pdm2024_urban_monitoring
   type: default
   description: 'PDM Urban Cameroon 2024 : Dataset for monitoring'
+- path: pdm_east_23724_config
+  name: pdm_east_23724_config
+  type: default
+  description: 'PDM East Cameroon 2024 : Parameters for monitoring'
