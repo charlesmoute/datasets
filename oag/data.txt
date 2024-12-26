@@ -10,3 +10,7 @@
   name: unhcr23724_config
   type: default
   description: Configuration RMS Cameroon 2024
+- path: rms23524_config
+  name: rms23524_config
+  type: default
+  description: Configuration RMS Chad 2024
