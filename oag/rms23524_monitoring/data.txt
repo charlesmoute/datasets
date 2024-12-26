@@ -1,0 +1,5 @@
+path: data.rds
+type: default
+description: Datasets monitoring RMS Chad 2024
+filenames:
+  data.rds: data.rds
