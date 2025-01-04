@@ -1,5 +1,0 @@
-path: data.rds
-type: default
-description: Configuration RMS Chad 2024
-filenames:
-  data.rds: data.rds
