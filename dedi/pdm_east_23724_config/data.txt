@@ -1,5 +1,0 @@
-path: data.rds
-type: default
-description: 'PDM East Cameroon 2024 : Parameters for monitoring'
-filenames:
-  data.rds: data.rds
